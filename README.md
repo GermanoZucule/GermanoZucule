@@ -13,7 +13,10 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-![GermanoZucule GitHub stats](https://github-readme-stats.vercel.app/api?username=GermanoZucule&show_icons=true&theme=radical)
+<div>
+  <img height='180' src='https://github-readme-stats.vercel.app/api?username=GermanoZucule&show_icons=true&theme=radical'/>
+  <img height='180' src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true'/>
+</div>
 
 
 ## 🧑‍💻 Sobre mim
