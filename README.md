@@ -16,8 +16,8 @@
 ##
 
 <div>
-  <img height='180' src='https://github-readme-stats.vercel.app/api?username=GermanoZucule&show_icons=true&theme=radical'/>
-  <img height='180'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoZucule&hide_progress=true'/>
+  <img height='175' src='https://github-readme-stats.vercel.app/api?username=GermanoZucule&show_icons=true&theme=radical'/>
+  <img height='175'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoZucule&hide_progress=true'/>
 </div>
 
 
