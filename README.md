@@ -18,8 +18,8 @@
 <div>
   <img  height='180px' width='400px' src='https://github-stats-extended.vercel.app/api?username=GermanoZucule&show_icons=true&theme=radical'/>
   <img  height='180px' width='400px' src='https://github-stats-extended.vercel.app/api/top-langs/?username=GermanoZucule&hide_progress=true'/>
-  <img  height='180px' width='400px' src='https://github-stats-extended.vercel.app/api/pin?username=GermanoZucule&repo=GermanoZucule%2Fgithub-readme-stats&theme=dark_github_repocard (https://github.com/GermanoZucule/github-readme-stats)'/>
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=anuraghazra&repo=anuraghazra%2Fgithub-readme-stats&theme=dark_github_repocard)](https://github.com/anuraghazra/github-readme-stats)
+  <img  height='180px' width='400px' src='https://github-stats-extended.vercel.app/api/pin?username=GermanoZucule&repo=GermanoZucule%2Fgithub-readme-stats&theme=dark_github_repocard '/>
+   
   
 </div>
 
