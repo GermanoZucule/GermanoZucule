@@ -18,6 +18,8 @@
 <div>
   <img  height='180px' width='400px' src='https://github-stats-extended.vercel.app/api?username=GermanoZucule&show_icons=true&theme=radical'/>
   <img  height='180px' width='400px' src='https://github-stats-extended.vercel.app/api/top-langs/?username=GermanoZucule&hide_progress=true'/>
+
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 
