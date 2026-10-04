@@ -18,7 +18,8 @@
 <div>
   <img  height='180px' width='400px' src='https://github-stats-extended.vercel.app/api?username=GermanoZucule&show_icons=true&theme=radical'/>
   <img  height='180px' width='400px' src='https://github-stats-extended.vercel.app/api/top-langs/?username=GermanoZucule&hide_progress=true'/>
-  <img  height='180px' width='400px' src='[https://github-stats-extended.vercel.app/api?username=GermanoZucule&show_icons=true&theme=radical](https://github-stats-extended.vercel.app/api/pin?username=GermanoZucule&repo=GermanoZucule%2Fgithub-readme-stats&theme=dark_github_repocard)'/>
+  <img  height='180px' width='400px' src='https://github-stats-extended.vercel.app/api/pin?username=GermanoZucule&repo=GermanoZucule%2Fgithub-readme-stats&theme=dark_github_repocard'/>
+  
   
 </div>
 
